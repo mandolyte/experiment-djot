@@ -1,8 +1,13 @@
 header { color: green; }
+.verse {
+	vertical-align: super;
+	font-weight: bolder;
+}
 .book {
 	color: red;
 }
 
 .heading {
 	color: blue;
+	font-style: italic;
 }
